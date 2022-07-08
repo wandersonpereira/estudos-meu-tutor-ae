@@ -1,10 +1,11 @@
 Loja de Calçados
-Sandalha
-Tenis
- - Modelo
- - Marca
- - Tamanho
- - Cor
+Calçado
+ Sandalha
+ Tenis
+  - Modelo
+  - Marca
+  - Tamanho
+  - Cor
 
 Pessoa
  Cliente
