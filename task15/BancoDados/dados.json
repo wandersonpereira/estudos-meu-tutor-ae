@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Wanderson",
+        "idade": 32,
+        "altura": 1.85,
+        "endereco": {
+            "rua": "404",
+            "numero": 133
+        },
+        "sexo": "M"
+    },
+    {
+        "nome": "Eduardo",
+        "idade": 29,
+        "altura": 1.82,
+        "endereco": {
+            "rua": "60",
+            "numero": 302
+        },
+        "sexo": "M"
+    },
+    {
+        "nome": "Angel",
+        "idade": 17,
+        "altura": 1.65,
+        "endereco": {
+            "rua": "Jorge Zacharias",
+            "numero": 297
+        },
+        "sexo": "F"
+    }
+]
