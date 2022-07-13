@@ -1,0 +1,32 @@
+[
+    {
+        "cpf": "12345678901",
+        "local": "Mcdonalds",
+        "valor": 60.38
+    },
+
+    {
+        "cpf": "12326062002",
+        "local": "Maressa",
+        "valor": 600.99
+    },
+    
+    {
+        "cpf": "76534062002",
+        "local": "Magalu",
+        "valor": 3000.00
+    },
+    
+    {
+        "cpf": "76534062002",
+        "local": "Casas Bahia",
+        "valor": 8000.00
+    },
+
+    {
+        "cpf": "76534062002",
+        "local": "Santti",
+        "valor": 2000.00
+    }
+
+]

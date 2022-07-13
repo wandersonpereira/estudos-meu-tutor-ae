@@ -19,5 +19,7 @@ Saldo Cliente
 
 --
 Consultar um cliente;
+
 Constular o estrato bancário deste cliente;
+
 Obter o Saldo do cliente e obter os totais dado o extrato bancario;

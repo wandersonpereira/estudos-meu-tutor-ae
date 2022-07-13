@@ -1,0 +1,35 @@
+[
+    {
+        "nome": "Eduardo",
+        "cpf": "12345678901",
+        "idade": 29,
+        "endereco": {
+            "rua": "60",
+            "numero": 302 
+        }
+
+
+    },
+
+    {
+        "nome": "Angel",
+        "cpf": "12326062002",
+        "idade": 18,
+        "endereco": {
+            "rua": "Jorge Zacharias",
+            "numero": 297
+        }
+    },
+
+    {
+        "nome": "Nabia",
+        "cpf": "76534062002",
+        "idade": 22,
+        "endereco": {
+            "rua": "404",
+            "numero": 133
+        }
+    } 
+
+]
+
